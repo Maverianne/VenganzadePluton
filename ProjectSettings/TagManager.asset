@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ParedArriba
+  - ParedDerecha
+  - ParedIzquierda
+  - Raqueta
+  - DeathZone
+  - PrimerNivel
+  - Bloques
+  - Pluton
+  - Up
+  - Multiply
+  - Down
+  - PlutonFast
+  - Double
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Start
+  - Planetas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3019834831
+    locked: 0
+  - name: Planetas
+    uniqueID: 1517618337
+    locked: 0
+  - name: Arriba
+    uniqueID: 1977246881
+    locked: 0

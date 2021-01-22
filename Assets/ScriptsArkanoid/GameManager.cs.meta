@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c7a513bd6fac784f9f0685128ab0de8
+timeCreated: 1521588699
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plutonPrefab: {fileID: 1344915192668042, guid: 06daee420ec65824a8a729744f9ba96b,
+      type: 2}
+  - gameOver: {instanceID: 0}
+  - InsertCoin: {fileID: 1420719060491546, guid: 380867c0f03dccb4887afc29d77da077,
+      type: 2}
+  - ganaste: {instanceID: 0}
+  - Up: {instanceID: 0}
+  - raqueta: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
